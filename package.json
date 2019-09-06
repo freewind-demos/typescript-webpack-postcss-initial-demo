@@ -1,5 +1,6 @@
 {
   "scripts": {
+    "view": "postcss index.pcss",
     "demo": "webpack-dev-server --config-register ts-node/register --open"
   },
   "devDependencies": {
